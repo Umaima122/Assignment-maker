@@ -1,0 +1,6 @@
+{
+  "name": "Assignment Completion & PDF Builder",
+  "description": "Analyze questionnaires, extract tasks, verify student screenshots, complete missing work, and assemble authentic academic PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
